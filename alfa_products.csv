@@ -1,0 +1,501 @@
+sku_id,product_name,category,unit_price
+SKU000001,Air Mineral Aqua,Beverage,12100.0
+SKU000002,Indm Grg,Food & Staples,39000.0
+SKU000003,Bimoli Pouch 2000ml,Food & Staples,12900.0
+SKU000004,Air Mineral Aqua,Beverage,27800.0
+SKU000005,Rokok Sampoerna Mild,Cigarettes,13800.0
+SKU000006,Air Mineral Aqua,Beverage,15100.0
+SKU000007,Aqua 600ml,Beverage,29600.0
+SKU000008,PEPSODENT 190G,Personal Care,3900.0
+SKU000009,Bimoli Pouch 2000ml,Food & Staples,40600.0
+SKU000010,Minyak Bimoli 2L,Food & Staples,6300.0
+SKU000011,Indm Grg,Food & Staples,15200.0
+SKU000012,PEPSODENT 190G,Personal Care,13000.0
+SKU000013,Pepsodent 190g,Personal Care,15300.0
+SKU000014,Minyak Bimoli 2L,Food & Staples,15800.0
+SKU000015,Minyak Bimoli 2L,Food & Staples,17000.0
+SKU000016,Air Mineral Aqua,Beverage,33600.0
+SKU000017,INDOMIE MIE GORENG,Food & Staples,10400.0
+SKU000018,Mnyk Goreng Bimoli,Food & Staples,20100.0
+SKU000019,ROKOK SAMPOERNA MILD,Cigarettes,29600.0
+SKU000020,AQ btl 600,Beverage,17900.0
+SKU000021,Minyak Bimoli 2L,Food & Staples,17000.0
+SKU000022,Minyak Bimoli 2L,Food & Staples,40700.0
+SKU000023,Rokok Sampoerna Mild,Cigarettes,25000.0
+SKU000024,Rokok Sampoerna Mild,Cigarettes,44300.0
+SKU000025,Minyak Bimoli 2L,Food & Staples,29300.0
+SKU000026,Indm Grg,Food & Staples,26300.0
+SKU000027,Bimoli Pouch 2000ml,Food & Staples,21400.0
+SKU000028,Aqua 600ml,Beverage,11400.0
+SKU000029,PEPSODENT 190G,Personal Care,24700.0
+SKU000030,Rokok Sampoerna Mild,Cigarettes,37300.0
+SKU000031,Indomie Goreng,Food & Staples,44700.0
+SKU000032,Pepsodent 190g,Personal Care,18500.0
+SKU000033,Pepsodent 190g,Personal Care,29300.0
+SKU000034,Minyak Bimoli 2L,Food & Staples,42400.0
+SKU000035,INDOMIE MIE GORENG,Food & Staples,14200.0
+SKU000036,ROKOK SAMPOERNA MILD,Cigarettes,24900.0
+SKU000037,ROKOK SAMPOERNA MILD,Cigarettes,27800.0
+SKU000038,Aqua 600ml,Beverage,24100.0
+SKU000039,Pepsodent 190g,Personal Care,14900.0
+SKU000040,Bimoli Pouch 2000ml,Food & Staples,17000.0
+SKU000041,Air Mineral Aqua,Beverage,4300.0
+SKU000042,Rokok Sampoerna Mild,Cigarettes,42200.0
+SKU000043,Pepsodent 190g,Personal Care,38400.0
+SKU000044,Bimoli Pouch 2000ml,Food & Staples,29300.0
+SKU000045,Rokok Sampoerna Mild,Cigarettes,20700.0
+SKU000046,PEPSODENT 190G,Personal Care,30400.0
+SKU000047,Pepsodent 190g,Personal Care,20100.0
+SKU000048,Minyak Bimoli 2L,Food & Staples,39700.0
+SKU000049,Indm Grg,Food & Staples,13900.0
+SKU000050,Rokok Sampoerna Mild,Cigarettes,9300.0
+SKU000051,Air Mineral Aqua,Beverage,35900.0
+SKU000052,Pepsodent 190g,Personal Care,3200.0
+SKU000053,Bimoli Pouch 2000ml,Food & Staples,18200.0
+SKU000054,ROKOK SAMPOERNA MILD,Cigarettes,44000.0
+SKU000055,Bimoli Pouch 2000ml,Food & Staples,20300.0
+SKU000056,Aqua 600ml,Beverage,18300.0
+SKU000057,INDOMIE MIE GORENG,Food & Staples,32000.0
+SKU000058,AQ btl 600,Beverage,16400.0
+SKU000059,Aqua 600ml,Beverage,21800.0
+SKU000060,Pepsodent 190g,Personal Care,40100.0
+SKU000061,PEPSODENT 190G,Personal Care,43100.0
+SKU000062,INDOMIE MIE GORENG,Food & Staples,39100.0
+SKU000063,Pepsodent 190g,Personal Care,32900.0
+SKU000064,Pepsodent 190g,Personal Care,25600.0
+SKU000065,PEPSODENT 190G,Personal Care,41800.0
+SKU000066,Pepsodent 190g,Personal Care,27600.0
+SKU000067,Pepsodent 190g,Personal Care,32900.0
+SKU000068,INDOMIE MIE GORENG,Food & Staples,6900.0
+SKU000069,Rokok Sampoerna Mild,Cigarettes,15800.0
+SKU000070,Pepsodent 190g,Personal Care,18500.0
+SKU000071,ROKOK SAMPOERNA MILD,Cigarettes,15100.0
+SKU000072,Pepsodent 190g,Personal Care,4900.0
+SKU000073,Pepsodent 190g,Personal Care,38800.0
+SKU000074,Indomie Goreng,Food & Staples,28700.0
+SKU000075,ROKOK SAMPOERNA MILD,Cigarettes,39600.0
+SKU000076,AQ btl 600,Beverage,4300.0
+SKU000077,ROKOK SAMPOERNA MILD,Cigarettes,18700.0
+SKU000078,Mnyk Goreng Bimoli,Food & Staples,44200.0
+SKU000079,Indm Grg,Food & Staples,10200.0
+SKU000080,AQ btl 600,Beverage,9300.0
+SKU000081,ROKOK SAMPOERNA MILD,Cigarettes,24800.0
+SKU000082,AQ btl 600,Beverage,18600.0
+SKU000083,Bimoli Pouch 2000ml,Food & Staples,11400.0
+SKU000084,Pepsodent 190g,Personal Care,38700.0
+SKU000085,PEPSODENT 190G,Personal Care,13500.0
+SKU000086,Mnyk Goreng Bimoli,Food & Staples,7700.0
+SKU000087,AQ btl 600,Beverage,15900.0
+SKU000088,PEPSODENT 190G,Personal Care,42500.0
+SKU000089,Aqua 600ml,Beverage,7400.0
+SKU000090,Bimoli Pouch 2000ml,Food & Staples,23600.0
+SKU000091,Indomie Goreng,Food & Staples,14500.0
+SKU000092,ROKOK SAMPOERNA MILD,Cigarettes,42200.0
+SKU000093,Air Mineral Aqua,Beverage,30500.0
+SKU000094,Mnyk Goreng Bimoli,Food & Staples,5900.0
+SKU000095,Air Mineral Aqua,Beverage,4800.0
+SKU000096,Mnyk Goreng Bimoli,Food & Staples,15600.0
+SKU000097,Aqua 600ml,Beverage,17600.0
+SKU000098,Rokok Sampoerna Mild,Cigarettes,19500.0
+SKU000099,Minyak Bimoli 2L,Food & Staples,37100.0
+SKU000100,Air Mineral Aqua,Beverage,5800.0
+SKU000101,Indm Grg,Food & Staples,44800.0
+SKU000102,PEPSODENT 190G,Personal Care,36100.0
+SKU000103,Air Mineral Aqua,Beverage,28000.0
+SKU000104,Mnyk Goreng Bimoli,Food & Staples,41100.0
+SKU000105,AQ btl 600,Beverage,27100.0
+SKU000106,PEPSODENT 190G,Personal Care,34100.0
+SKU000107,Mnyk Goreng Bimoli,Food & Staples,29500.0
+SKU000108,AQ btl 600,Beverage,6000.0
+SKU000109,PEPSODENT 190G,Personal Care,35800.0
+SKU000110,Air Mineral Aqua,Beverage,25600.0
+SKU000111,Aqua 600ml,Beverage,4500.0
+SKU000112,PEPSODENT 190G,Personal Care,14600.0
+SKU000113,Pepsodent 190g,Personal Care,10800.0
+SKU000114,Indm Grg,Food & Staples,14400.0
+SKU000115,Bimoli Pouch 2000ml,Food & Staples,31100.0
+SKU000116,Rokok Sampoerna Mild,Cigarettes,7600.0
+SKU000117,PEPSODENT 190G,Personal Care,26900.0
+SKU000118,INDOMIE MIE GORENG,Food & Staples,3700.0
+SKU000119,Minyak Bimoli 2L,Food & Staples,35700.0
+SKU000120,Rokok Sampoerna Mild,Cigarettes,41300.0
+SKU000121,Indomie Goreng,Food & Staples,23700.0
+SKU000122,Bimoli Pouch 2000ml,Food & Staples,25000.0
+SKU000123,Rokok Sampoerna Mild,Cigarettes,44700.0
+SKU000124,PEPSODENT 190G,Personal Care,20400.0
+SKU000125,AQ btl 600,Beverage,44100.0
+SKU000126,Indm Grg,Food & Staples,21000.0
+SKU000127,Air Mineral Aqua,Beverage,19100.0
+SKU000128,Air Mineral Aqua,Beverage,41000.0
+SKU000129,PEPSODENT 190G,Personal Care,3400.0
+SKU000130,Bimoli Pouch 2000ml,Food & Staples,15500.0
+SKU000131,Mnyk Goreng Bimoli,Food & Staples,41700.0
+SKU000132,Pepsodent 190g,Personal Care,28500.0
+SKU000133,PEPSODENT 190G,Personal Care,18700.0
+SKU000134,AQ btl 600,Beverage,23900.0
+SKU000135,Bimoli Pouch 2000ml,Food & Staples,42500.0
+SKU000136,ROKOK SAMPOERNA MILD,Cigarettes,16100.0
+SKU000137,Rokok Sampoerna Mild,Cigarettes,12400.0
+SKU000138,ROKOK SAMPOERNA MILD,Cigarettes,20900.0
+SKU000139,Aqua 600ml,Beverage,36400.0
+SKU000140,ROKOK SAMPOERNA MILD,Cigarettes,30200.0
+SKU000141,Indomie Goreng,Food & Staples,14600.0
+SKU000142,Pepsodent 190g,Personal Care,29600.0
+SKU000143,Air Mineral Aqua,Beverage,28300.0
+SKU000144,Indomie Goreng,Food & Staples,23900.0
+SKU000145,Rokok Sampoerna Mild,Cigarettes,12200.0
+SKU000146,Indm Grg,Food & Staples,44800.0
+SKU000147,Minyak Bimoli 2L,Food & Staples,38600.0
+SKU000148,Aqua 600ml,Beverage,22400.0
+SKU000149,PEPSODENT 190G,Personal Care,28500.0
+SKU000150,Rokok Sampoerna Mild,Cigarettes,42400.0
+SKU000151,Pepsodent 190g,Personal Care,4500.0
+SKU000152,ROKOK SAMPOERNA MILD,Cigarettes,41200.0
+SKU000153,Rokok Sampoerna Mild,Cigarettes,43600.0
+SKU000154,Mnyk Goreng Bimoli,Food & Staples,38900.0
+SKU000155,Indm Grg,Food & Staples,38400.0
+SKU000156,ROKOK SAMPOERNA MILD,Cigarettes,37300.0
+SKU000157,Air Mineral Aqua,Beverage,21200.0
+SKU000158,ROKOK SAMPOERNA MILD,Cigarettes,17800.0
+SKU000159,Rokok Sampoerna Mild,Cigarettes,9700.0
+SKU000160,PEPSODENT 190G,Personal Care,25500.0
+SKU000161,ROKOK SAMPOERNA MILD,Cigarettes,6900.0
+SKU000162,ROKOK SAMPOERNA MILD,Cigarettes,33800.0
+SKU000163,Pepsodent 190g,Personal Care,4900.0
+SKU000164,Rokok Sampoerna Mild,Cigarettes,26200.0
+SKU000165,Rokok Sampoerna Mild,Cigarettes,20500.0
+SKU000166,Air Mineral Aqua,Beverage,30200.0
+SKU000167,Pepsodent 190g,Personal Care,17100.0
+SKU000168,Rokok Sampoerna Mild,Cigarettes,11900.0
+SKU000169,ROKOK SAMPOERNA MILD,Cigarettes,27200.0
+SKU000170,Indm Grg,Food & Staples,37800.0
+SKU000171,PEPSODENT 190G,Personal Care,18000.0
+SKU000172,ROKOK SAMPOERNA MILD,Cigarettes,33600.0
+SKU000173,Air Mineral Aqua,Beverage,8600.0
+SKU000174,Pepsodent 190g,Personal Care,39200.0
+SKU000175,Indm Grg,Food & Staples,34400.0
+SKU000176,ROKOK SAMPOERNA MILD,Cigarettes,32700.0
+SKU000177,Indm Grg,Food & Staples,35300.0
+SKU000178,Mnyk Goreng Bimoli,Food & Staples,7000.0
+SKU000179,Air Mineral Aqua,Beverage,39000.0
+SKU000180,Bimoli Pouch 2000ml,Food & Staples,33500.0
+SKU000181,Mnyk Goreng Bimoli,Food & Staples,23600.0
+SKU000182,Minyak Bimoli 2L,Food & Staples,11600.0
+SKU000183,INDOMIE MIE GORENG,Food & Staples,39900.0
+SKU000184,Rokok Sampoerna Mild,Cigarettes,30400.0
+SKU000185,INDOMIE MIE GORENG,Food & Staples,10300.0
+SKU000186,Mnyk Goreng Bimoli,Food & Staples,8600.0
+SKU000187,Bimoli Pouch 2000ml,Food & Staples,3800.0
+SKU000188,Aqua 600ml,Beverage,10200.0
+SKU000189,Bimoli Pouch 2000ml,Food & Staples,21000.0
+SKU000190,INDOMIE MIE GORENG,Food & Staples,30300.0
+SKU000191,ROKOK SAMPOERNA MILD,Cigarettes,34500.0
+SKU000192,Pepsodent 190g,Personal Care,24400.0
+SKU000193,Bimoli Pouch 2000ml,Food & Staples,27900.0
+SKU000194,PEPSODENT 190G,Personal Care,16500.0
+SKU000195,Rokok Sampoerna Mild,Cigarettes,4200.0
+SKU000196,Bimoli Pouch 2000ml,Food & Staples,23500.0
+SKU000197,Air Mineral Aqua,Beverage,19900.0
+SKU000198,Pepsodent 190g,Personal Care,19700.0
+SKU000199,Mnyk Goreng Bimoli,Food & Staples,3200.0
+SKU000200,Mnyk Goreng Bimoli,Food & Staples,40500.0
+SKU000201,Pepsodent 190g,Personal Care,12300.0
+SKU000202,Rokok Sampoerna Mild,Cigarettes,15300.0
+SKU000203,Rokok Sampoerna Mild,Cigarettes,38900.0
+SKU000204,Aqua 600ml,Beverage,40700.0
+SKU000205,Air Mineral Aqua,Beverage,41200.0
+SKU000206,Bimoli Pouch 2000ml,Food & Staples,32300.0
+SKU000207,Pepsodent 190g,Personal Care,32500.0
+SKU000208,Indm Grg,Food & Staples,8400.0
+SKU000209,Aqua 600ml,Beverage,27100.0
+SKU000210,PEPSODENT 190G,Personal Care,4300.0
+SKU000211,Pepsodent 190g,Personal Care,31300.0
+SKU000212,Pepsodent 190g,Personal Care,44500.0
+SKU000213,Minyak Bimoli 2L,Food & Staples,25200.0
+SKU000214,Bimoli Pouch 2000ml,Food & Staples,16400.0
+SKU000215,INDOMIE MIE GORENG,Food & Staples,25300.0
+SKU000216,ROKOK SAMPOERNA MILD,Cigarettes,8100.0
+SKU000217,Mnyk Goreng Bimoli,Food & Staples,29700.0
+SKU000218,PEPSODENT 190G,Personal Care,16600.0
+SKU000219,PEPSODENT 190G,Personal Care,38300.0
+SKU000220,Pepsodent 190g,Personal Care,30400.0
+SKU000221,PEPSODENT 190G,Personal Care,6200.0
+SKU000222,ROKOK SAMPOERNA MILD,Cigarettes,33500.0
+SKU000223,Indomie Goreng,Food & Staples,40300.0
+SKU000224,Pepsodent 190g,Personal Care,34500.0
+SKU000225,INDOMIE MIE GORENG,Food & Staples,14000.0
+SKU000226,Indm Grg,Food & Staples,25400.0
+SKU000227,ROKOK SAMPOERNA MILD,Cigarettes,30700.0
+SKU000228,AQ btl 600,Beverage,22100.0
+SKU000229,Rokok Sampoerna Mild,Cigarettes,9600.0
+SKU000230,Mnyk Goreng Bimoli,Food & Staples,28100.0
+SKU000231,PEPSODENT 190G,Personal Care,9700.0
+SKU000232,Pepsodent 190g,Personal Care,16800.0
+SKU000233,ROKOK SAMPOERNA MILD,Cigarettes,6000.0
+SKU000234,Rokok Sampoerna Mild,Cigarettes,33600.0
+SKU000235,Mnyk Goreng Bimoli,Food & Staples,15300.0
+SKU000236,Aqua 600ml,Beverage,26100.0
+SKU000237,Minyak Bimoli 2L,Food & Staples,15900.0
+SKU000238,AQ btl 600,Beverage,43100.0
+SKU000239,Air Mineral Aqua,Beverage,20600.0
+SKU000240,Aqua 600ml,Beverage,8500.0
+SKU000241,Indomie Goreng,Food & Staples,39600.0
+SKU000242,PEPSODENT 190G,Personal Care,38600.0
+SKU000243,Indm Grg,Food & Staples,34800.0
+SKU000244,PEPSODENT 190G,Personal Care,21500.0
+SKU000245,AQ btl 600,Beverage,17600.0
+SKU000246,Pepsodent 190g,Personal Care,32500.0
+SKU000247,AQ btl 600,Beverage,6400.0
+SKU000248,Pepsodent 190g,Personal Care,10600.0
+SKU000249,Aqua 600ml,Beverage,6500.0
+SKU000250,Mnyk Goreng Bimoli,Food & Staples,40600.0
+SKU000251,Aqua 600ml,Beverage,26200.0
+SKU000252,AQ btl 600,Beverage,23300.0
+SKU000253,Mnyk Goreng Bimoli,Food & Staples,24000.0
+SKU000254,Indm Grg,Food & Staples,15500.0
+SKU000255,Minyak Bimoli 2L,Food & Staples,14100.0
+SKU000256,INDOMIE MIE GORENG,Food & Staples,31600.0
+SKU000257,Bimoli Pouch 2000ml,Food & Staples,6200.0
+SKU000258,Air Mineral Aqua,Beverage,41300.0
+SKU000259,Indm Grg,Food & Staples,32800.0
+SKU000260,Air Mineral Aqua,Beverage,29900.0
+SKU000261,ROKOK SAMPOERNA MILD,Cigarettes,23900.0
+SKU000262,Indomie Goreng,Food & Staples,26200.0
+SKU000263,Mnyk Goreng Bimoli,Food & Staples,37900.0
+SKU000264,Indomie Goreng,Food & Staples,30900.0
+SKU000265,Mnyk Goreng Bimoli,Food & Staples,11800.0
+SKU000266,Rokok Sampoerna Mild,Cigarettes,9600.0
+SKU000267,Minyak Bimoli 2L,Food & Staples,44700.0
+SKU000268,INDOMIE MIE GORENG,Food & Staples,23500.0
+SKU000269,ROKOK SAMPOERNA MILD,Cigarettes,37200.0
+SKU000270,Bimoli Pouch 2000ml,Food & Staples,22700.0
+SKU000271,Mnyk Goreng Bimoli,Food & Staples,35800.0
+SKU000272,Mnyk Goreng Bimoli,Food & Staples,29400.0
+SKU000273,Rokok Sampoerna Mild,Cigarettes,39900.0
+SKU000274,Indomie Goreng,Food & Staples,23000.0
+SKU000275,Bimoli Pouch 2000ml,Food & Staples,32100.0
+SKU000276,Rokok Sampoerna Mild,Cigarettes,43700.0
+SKU000277,Indomie Goreng,Food & Staples,26800.0
+SKU000278,Mnyk Goreng Bimoli,Food & Staples,12300.0
+SKU000279,Bimoli Pouch 2000ml,Food & Staples,27900.0
+SKU000280,Mnyk Goreng Bimoli,Food & Staples,41900.0
+SKU000281,ROKOK SAMPOERNA MILD,Cigarettes,28300.0
+SKU000282,PEPSODENT 190G,Personal Care,25700.0
+SKU000283,Air Mineral Aqua,Beverage,32200.0
+SKU000284,ROKOK SAMPOERNA MILD,Cigarettes,22200.0
+SKU000285,Pepsodent 190g,Personal Care,6400.0
+SKU000286,Indomie Goreng,Food & Staples,35300.0
+SKU000287,Rokok Sampoerna Mild,Cigarettes,22800.0
+SKU000288,Mnyk Goreng Bimoli,Food & Staples,15900.0
+SKU000289,PEPSODENT 190G,Personal Care,13800.0
+SKU000290,Indomie Goreng,Food & Staples,16600.0
+SKU000291,Indomie Goreng,Food & Staples,39400.0
+SKU000292,Mnyk Goreng Bimoli,Food & Staples,26700.0
+SKU000293,Aqua 600ml,Beverage,23500.0
+SKU000294,Indomie Goreng,Food & Staples,32200.0
+SKU000295,INDOMIE MIE GORENG,Food & Staples,25200.0
+SKU000296,Aqua 600ml,Beverage,36600.0
+SKU000297,Indomie Goreng,Food & Staples,17400.0
+SKU000298,Pepsodent 190g,Personal Care,33400.0
+SKU000299,Bimoli Pouch 2000ml,Food & Staples,28300.0
+SKU000300,Air Mineral Aqua,Beverage,16700.0
+SKU000301,ROKOK SAMPOERNA MILD,Cigarettes,28800.0
+SKU000302,PEPSODENT 190G,Personal Care,6800.0
+SKU000303,Air Mineral Aqua,Beverage,38300.0
+SKU000304,PEPSODENT 190G,Personal Care,22700.0
+SKU000305,ROKOK SAMPOERNA MILD,Cigarettes,20600.0
+SKU000306,PEPSODENT 190G,Personal Care,27300.0
+SKU000307,Mnyk Goreng Bimoli,Food & Staples,19400.0
+SKU000308,Indomie Goreng,Food & Staples,42400.0
+SKU000309,Rokok Sampoerna Mild,Cigarettes,36600.0
+SKU000310,Bimoli Pouch 2000ml,Food & Staples,23300.0
+SKU000311,Indomie Goreng,Food & Staples,38700.0
+SKU000312,Pepsodent 190g,Personal Care,38300.0
+SKU000313,Air Mineral Aqua,Beverage,19500.0
+SKU000314,Indomie Goreng,Food & Staples,23800.0
+SKU000315,Indm Grg,Food & Staples,12500.0
+SKU000316,Indm Grg,Food & Staples,28100.0
+SKU000317,ROKOK SAMPOERNA MILD,Cigarettes,44300.0
+SKU000318,ROKOK SAMPOERNA MILD,Cigarettes,22900.0
+SKU000319,Pepsodent 190g,Personal Care,37400.0
+SKU000320,Aqua 600ml,Beverage,40300.0
+SKU000321,Bimoli Pouch 2000ml,Food & Staples,36900.0
+SKU000322,Indm Grg,Food & Staples,34300.0
+SKU000323,Air Mineral Aqua,Beverage,32200.0
+SKU000324,ROKOK SAMPOERNA MILD,Cigarettes,15600.0
+SKU000325,Minyak Bimoli 2L,Food & Staples,39600.0
+SKU000326,Minyak Bimoli 2L,Food & Staples,40800.0
+SKU000327,ROKOK SAMPOERNA MILD,Cigarettes,42100.0
+SKU000328,Minyak Bimoli 2L,Food & Staples,11900.0
+SKU000329,INDOMIE MIE GORENG,Food & Staples,15300.0
+SKU000330,Aqua 600ml,Beverage,19900.0
+SKU000331,PEPSODENT 190G,Personal Care,25600.0
+SKU000332,Minyak Bimoli 2L,Food & Staples,15600.0
+SKU000333,PEPSODENT 190G,Personal Care,43000.0
+SKU000334,Indomie Goreng,Food & Staples,11100.0
+SKU000335,ROKOK SAMPOERNA MILD,Cigarettes,41800.0
+SKU000336,Mnyk Goreng Bimoli,Food & Staples,7400.0
+SKU000337,Indm Grg,Food & Staples,39800.0
+SKU000338,PEPSODENT 190G,Personal Care,30900.0
+SKU000339,Pepsodent 190g,Personal Care,32000.0
+SKU000340,INDOMIE MIE GORENG,Food & Staples,37500.0
+SKU000341,Aqua 600ml,Beverage,3500.0
+SKU000342,Rokok Sampoerna Mild,Cigarettes,26100.0
+SKU000343,Aqua 600ml,Beverage,8500.0
+SKU000344,Mnyk Goreng Bimoli,Food & Staples,33100.0
+SKU000345,Indm Grg,Food & Staples,16100.0
+SKU000346,Rokok Sampoerna Mild,Cigarettes,43900.0
+SKU000347,PEPSODENT 190G,Personal Care,20000.0
+SKU000348,Minyak Bimoli 2L,Food & Staples,19900.0
+SKU000349,Air Mineral Aqua,Beverage,7700.0
+SKU000350,PEPSODENT 190G,Personal Care,21500.0
+SKU000351,Indomie Goreng,Food & Staples,9000.0
+SKU000352,Pepsodent 190g,Personal Care,30500.0
+SKU000353,Aqua 600ml,Beverage,36100.0
+SKU000354,PEPSODENT 190G,Personal Care,38400.0
+SKU000355,ROKOK SAMPOERNA MILD,Cigarettes,8700.0
+SKU000356,Aqua 600ml,Beverage,44600.0
+SKU000357,Bimoli Pouch 2000ml,Food & Staples,30500.0
+SKU000358,Mnyk Goreng Bimoli,Food & Staples,44400.0
+SKU000359,Indm Grg,Food & Staples,19400.0
+SKU000360,Rokok Sampoerna Mild,Cigarettes,3400.0
+SKU000361,Bimoli Pouch 2000ml,Food & Staples,34100.0
+SKU000362,Minyak Bimoli 2L,Food & Staples,26800.0
+SKU000363,ROKOK SAMPOERNA MILD,Cigarettes,3200.0
+SKU000364,Bimoli Pouch 2000ml,Food & Staples,21000.0
+SKU000365,Pepsodent 190g,Personal Care,17500.0
+SKU000366,Minyak Bimoli 2L,Food & Staples,8200.0
+SKU000367,Pepsodent 190g,Personal Care,33300.0
+SKU000368,Mnyk Goreng Bimoli,Food & Staples,20900.0
+SKU000369,INDOMIE MIE GORENG,Food & Staples,38200.0
+SKU000370,Mnyk Goreng Bimoli,Food & Staples,43700.0
+SKU000371,Indm Grg,Food & Staples,35200.0
+SKU000372,ROKOK SAMPOERNA MILD,Cigarettes,29900.0
+SKU000373,ROKOK SAMPOERNA MILD,Cigarettes,21500.0
+SKU000374,Rokok Sampoerna Mild,Cigarettes,15400.0
+SKU000375,PEPSODENT 190G,Personal Care,42200.0
+SKU000376,Mnyk Goreng Bimoli,Food & Staples,8600.0
+SKU000377,Mnyk Goreng Bimoli,Food & Staples,14300.0
+SKU000378,PEPSODENT 190G,Personal Care,25700.0
+SKU000379,Aqua 600ml,Beverage,32300.0
+SKU000380,PEPSODENT 190G,Personal Care,17200.0
+SKU000381,Bimoli Pouch 2000ml,Food & Staples,15800.0
+SKU000382,Aqua 600ml,Beverage,22200.0
+SKU000383,Pepsodent 190g,Personal Care,12100.0
+SKU000384,PEPSODENT 190G,Personal Care,42700.0
+SKU000385,Aqua 600ml,Beverage,30200.0
+SKU000386,Mnyk Goreng Bimoli,Food & Staples,23000.0
+SKU000387,Pepsodent 190g,Personal Care,28400.0
+SKU000388,Aqua 600ml,Beverage,29600.0
+SKU000389,Mnyk Goreng Bimoli,Food & Staples,33000.0
+SKU000390,ROKOK SAMPOERNA MILD,Cigarettes,41200.0
+SKU000391,Pepsodent 190g,Personal Care,20700.0
+SKU000392,Indomie Goreng,Food & Staples,27500.0
+SKU000393,ROKOK SAMPOERNA MILD,Cigarettes,9400.0
+SKU000394,Pepsodent 190g,Personal Care,5300.0
+SKU000395,ROKOK SAMPOERNA MILD,Cigarettes,20500.0
+SKU000396,Air Mineral Aqua,Beverage,8000.0
+SKU000397,PEPSODENT 190G,Personal Care,27700.0
+SKU000398,Mnyk Goreng Bimoli,Food & Staples,37200.0
+SKU000399,Minyak Bimoli 2L,Food & Staples,11400.0
+SKU000400,Minyak Bimoli 2L,Food & Staples,32700.0
+SKU000401,Rokok Sampoerna Mild,Cigarettes,23600.0
+SKU000402,Bimoli Pouch 2000ml,Food & Staples,22200.0
+SKU000403,Pepsodent 190g,Personal Care,28600.0
+SKU000404,ROKOK SAMPOERNA MILD,Cigarettes,26900.0
+SKU000405,Air Mineral Aqua,Beverage,11200.0
+SKU000406,INDOMIE MIE GORENG,Food & Staples,42200.0
+SKU000407,Indomie Goreng,Food & Staples,35100.0
+SKU000408,Aqua 600ml,Beverage,24600.0
+SKU000409,Rokok Sampoerna Mild,Cigarettes,30600.0
+SKU000410,PEPSODENT 190G,Personal Care,37700.0
+SKU000411,AQ btl 600,Beverage,34700.0
+SKU000412,Mnyk Goreng Bimoli,Food & Staples,21300.0
+SKU000413,Rokok Sampoerna Mild,Cigarettes,5700.0
+SKU000414,Bimoli Pouch 2000ml,Food & Staples,6600.0
+SKU000415,Indomie Goreng,Food & Staples,16200.0
+SKU000416,Pepsodent 190g,Personal Care,38900.0
+SKU000417,AQ btl 600,Beverage,17600.0
+SKU000418,Air Mineral Aqua,Beverage,7800.0
+SKU000419,Indomie Goreng,Food & Staples,5200.0
+SKU000420,Indm Grg,Food & Staples,42000.0
+SKU000421,Indm Grg,Food & Staples,21200.0
+SKU000422,Minyak Bimoli 2L,Food & Staples,15700.0
+SKU000423,ROKOK SAMPOERNA MILD,Cigarettes,14100.0
+SKU000424,Minyak Bimoli 2L,Food & Staples,4100.0
+SKU000425,Air Mineral Aqua,Beverage,4700.0
+SKU000426,Pepsodent 190g,Personal Care,20400.0
+SKU000427,Minyak Bimoli 2L,Food & Staples,41500.0
+SKU000428,ROKOK SAMPOERNA MILD,Cigarettes,10900.0
+SKU000429,Rokok Sampoerna Mild,Cigarettes,39700.0
+SKU000430,Air Mineral Aqua,Beverage,43900.0
+SKU000431,Indm Grg,Food & Staples,4800.0
+SKU000432,INDOMIE MIE GORENG,Food & Staples,38200.0
+SKU000433,Minyak Bimoli 2L,Food & Staples,7300.0
+SKU000434,Mnyk Goreng Bimoli,Food & Staples,6200.0
+SKU000435,AQ btl 600,Beverage,19200.0
+SKU000436,AQ btl 600,Beverage,38600.0
+SKU000437,Mnyk Goreng Bimoli,Food & Staples,16700.0
+SKU000438,Pepsodent 190g,Personal Care,7000.0
+SKU000439,Pepsodent 190g,Personal Care,29800.0
+SKU000440,INDOMIE MIE GORENG,Food & Staples,17800.0
+SKU000441,ROKOK SAMPOERNA MILD,Cigarettes,20700.0
+SKU000442,Indm Grg,Food & Staples,5800.0
+SKU000443,Aqua 600ml,Beverage,40300.0
+SKU000444,INDOMIE MIE GORENG,Food & Staples,6500.0
+SKU000445,AQ btl 600,Beverage,33900.0
+SKU000446,ROKOK SAMPOERNA MILD,Cigarettes,33900.0
+SKU000447,Minyak Bimoli 2L,Food & Staples,17700.0
+SKU000448,INDOMIE MIE GORENG,Food & Staples,29300.0
+SKU000449,Indm Grg,Food & Staples,41700.0
+SKU000450,Aqua 600ml,Beverage,41400.0
+SKU000451,INDOMIE MIE GORENG,Food & Staples,43800.0
+SKU000452,Pepsodent 190g,Personal Care,12100.0
+SKU000453,Rokok Sampoerna Mild,Cigarettes,39800.0
+SKU000454,ROKOK SAMPOERNA MILD,Cigarettes,19500.0
+SKU000455,ROKOK SAMPOERNA MILD,Cigarettes,5200.0
+SKU000456,ROKOK SAMPOERNA MILD,Cigarettes,42700.0
+SKU000457,Rokok Sampoerna Mild,Cigarettes,11800.0
+SKU000458,Rokok Sampoerna Mild,Cigarettes,16600.0
+SKU000459,Aqua 600ml,Beverage,44200.0
+SKU000460,Pepsodent 190g,Personal Care,11900.0
+SKU000461,Rokok Sampoerna Mild,Cigarettes,25600.0
+SKU000462,Air Mineral Aqua,Beverage,16200.0
+SKU000463,PEPSODENT 190G,Personal Care,27000.0
+SKU000464,Air Mineral Aqua,Beverage,11200.0
+SKU000465,AQ btl 600,Beverage,29400.0
+SKU000466,Pepsodent 190g,Personal Care,14800.0
+SKU000467,INDOMIE MIE GORENG,Food & Staples,15100.0
+SKU000468,Rokok Sampoerna Mild,Cigarettes,22600.0
+SKU000469,Pepsodent 190g,Personal Care,40800.0
+SKU000470,Indomie Goreng,Food & Staples,11400.0
+SKU000471,Rokok Sampoerna Mild,Cigarettes,15800.0
+SKU000472,Rokok Sampoerna Mild,Cigarettes,33700.0
+SKU000473,ROKOK SAMPOERNA MILD,Cigarettes,26000.0
+SKU000474,Mnyk Goreng Bimoli,Food & Staples,10000.0
+SKU000475,Indm Grg,Food & Staples,13500.0
+SKU000476,Rokok Sampoerna Mild,Cigarettes,18500.0
+SKU000477,INDOMIE MIE GORENG,Food & Staples,40200.0
+SKU000478,ROKOK SAMPOERNA MILD,Cigarettes,34900.0
+SKU000479,Indm Grg,Food & Staples,3800.0
+SKU000480,INDOMIE MIE GORENG,Food & Staples,27300.0
+SKU000481,Indm Grg,Food & Staples,10000.0
+SKU000482,Indomie Goreng,Food & Staples,18200.0
+SKU000483,Air Mineral Aqua,Beverage,11700.0
+SKU000484,INDOMIE MIE GORENG,Food & Staples,13200.0
+SKU000485,Bimoli Pouch 2000ml,Food & Staples,12900.0
+SKU000486,Mnyk Goreng Bimoli,Food & Staples,32600.0
+SKU000487,Minyak Bimoli 2L,Food & Staples,11400.0
+SKU000488,Air Mineral Aqua,Beverage,16700.0
+SKU000489,Mnyk Goreng Bimoli,Food & Staples,42400.0
+SKU000490,Minyak Bimoli 2L,Food & Staples,40100.0
+SKU000491,Air Mineral Aqua,Beverage,10600.0
+SKU000492,Indm Grg,Food & Staples,39200.0
+SKU000493,Bimoli Pouch 2000ml,Food & Staples,30200.0
+SKU000494,Indm Grg,Food & Staples,17700.0
+SKU000495,Rokok Sampoerna Mild,Cigarettes,30100.0
+SKU000496,ROKOK SAMPOERNA MILD,Cigarettes,43100.0
+SKU000497,Indm Grg,Food & Staples,21100.0
+SKU000498,Air Mineral Aqua,Beverage,38400.0
+SKU000499,Rokok Sampoerna Mild,Cigarettes,20100.0
+SKU000500,Rokok Sampoerna Mild,Cigarettes,22200.0
